@@ -270,6 +270,11 @@ body {
                         font-style: italic;
                     }
                 }
+
+                .img-section{
+                    display: flex!important;
+                    justify-content: flex-end!important;
+                }
             }
 
         }
